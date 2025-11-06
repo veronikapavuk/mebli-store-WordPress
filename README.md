@@ -15,7 +15,7 @@ To build a furniture store website on the WordPress CMS by reproducing the layou
 
 - Design link — [*https://www.figma.com/design/ZjEnZYcHPJNFbwboSXbTBf/Mebli_website?node-id=0-1&m=dev&t=sMsgl7NbaFT4nPEc-1*](https://www.figma.com/design/ZjEnZYcHPJNFbwboSXbTBf/Mebli_website?node-id=0-1&m=dev&t=sMsgl7NbaFT4nPEc-1)
 - Prototype link — [https://www.figma.com/proto/ZjEnZYcHPJNFbwboSXbTBf/Mebli_website?node-id=0-1&t=sMsgl7NbaFT4nPEc-1](https://www.figma.com/proto/ZjEnZYcHPJNFbwboSXbTBf/Mebli_website?node-id=0-1&t=sMsgl7NbaFT4nPEc-1)
-- Screenshot: `photo_2025-06-27_21-23-13.jpg`
+- ![Figma Screenshot](figma-reference/photo_2025-06-27_21-23-13.jpg)
 
 ⚠️ **Note:**  
 The database was lost after reinstalling OpenServer, so the site cannot be launched directly. However, the full project structure is preserved for review and demonstration purposes.
